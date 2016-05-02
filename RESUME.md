@@ -1,9 +1,9 @@
 ##노대건
 =========
 
-협업을 중요시 하고,
-테스트 위주의 개발을 하며,
-긍정적인 마인드의 주니어 개발자 입니다.
+협업을 중요시 하고,  
+테스트 위주의 개발을 하며,  
+긍정적인 마인드의 주니어 개발자 입니다.  
 
 ### 1. 학력(Education)
 
@@ -17,8 +17,8 @@
   * Spring/Mysql
  * 모바일 프로그래밍
   * 안드로이드
- *
-### 2. 보유 기술
+
+### 2. 보유 기술  
  2.1 Basice
  * Programming Languages : C, C++, _java_, javascript
  * Operating Systems: Linux, _Unix_
