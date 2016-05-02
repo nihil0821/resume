@@ -1,9 +1,9 @@
 ##노대건
 =========
 
-협업을 중요시 하고,
-테스트 위주의 개발을 하며,
-긍정적인 마인드의 주니어 개발자 입니다.
+협업을 중요시 하고,  
+테스트 위주의 개발을 하며,  
+긍정적인 마인드의 주니어 개발자 입니다.  
 
 ### 1. 학력(Education)
 
@@ -13,27 +13,27 @@
 
 #### 세부 전공 기술(Major)
 
- * 웹 서비스
-  * Spring/Mysql
- * 모바일 프로그래밍
-  * 안드로이드
- *
-### 2. 보유 기술
- 2.1 Basice
- * Programming Languages : C, C++, _java_, javascript
- * Operating Systems: Linux, _Unix_
- * IDE(Eclipse)
+* 웹 서비스
+ * Spring/Mysql
+* 모바일 프로그래밍
+ * 안드로이드
 
- 2.2 java Development
- * Java 개발 프레임워크(Spring, _Android_)
- * DB 응용 개발 (Mysql)
- * Server (Tomcat)
- * 테스트 코드 작성 (Junit)
+### 2. 보유 기술  
+2.1 Basice
+* Programming Languages : C, C++, _java_, javascript
+* Operating Systems: Linux, _Unix_
+* IDE(Eclipse)
 
- 2.3 Software Tools
- * 소스코드관리(Git, SVN)
- * 이슈추적도구(Redmine)
- * 빌드도구(Maven)
+2.2 java Development
+* Java 개발 프레임워크(Spring, _Android_)
+* DB 응용 개발 (Mysql)
+* Server (Tomcat)
+* 테스트 코드 작성 (Junit)
+
+2.3 Software Tools
+* 소스코드관리(Git, SVN)
+* 이슈추적도구(Redmine)
+* 빌드도구(Maven)
 
 ### 3. 인턴 및 프로젝트 수행 실적
 
