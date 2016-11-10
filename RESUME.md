@@ -19,15 +19,16 @@
  * Spring/Mysql
 * 모바일 프로그래밍
  * 안드로이드  
-
+* 프로그래밍
+ * C# 이용한 OPOS Utility Program
 ### 2. 보유 기술  
 2.1 Basice
-* Programming Languages : C, C++, __java__, javascript
+* Programming Languages : C, C++, C#, __java__, javascript
 * Operating Systems: Linux, __Unix__
 * IDE(Eclipse)
 
 2.2 java Development
-* Java 개발 프레임워크(Spring, __Android__)
+* Java 개발 프레임워크(Spring, __Android__, Microsoft Visual Studio)
 * DB 응용 개발 (Mysql)
 * Server (Tomcat)
 * 테스트 코드 작성 (Junit)
@@ -44,7 +45,7 @@
 | :-------- | :------- | :-------- |
 | 2015.9~2015.12 | 포스코ICT | SW 테스트 및 개발보조 |
 | 2016.3~2016.6 | 한성대학교 | 자료수집 및 개발보조 |
-| 2016.7~2017.2 | 벨크리텍 | 미정 |
+| 2016.7~2017.2 | 벨크리텍 | SW 솔루션 개발 |
 
 ### 4. 수상 실적 & 자격증
 
